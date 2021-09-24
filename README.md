@@ -3,7 +3,7 @@
  
 ![alt text](https://snipboard.io/0GKWOP.jpg)
 
-Different weapon types - item pickup widget
+Different weapon types with stats based on data tables - item pickup widget
 ![alt text](https://snipboard.io/6KhHZe.jpg)
 
 Explosives
@@ -21,5 +21,5 @@ Crosshair influenced by movement state of the character and/or shooting (no reco
 ADS and torso rotated by mouse ~ +-90 degrees until character rotates completely towards camera's direction
 ![alt text](https://snipboard.io/Lh1d6q.jpg)
 
-Animation for pickup items distributed through components attached to the character
+Animation for pickup items distributed through components attached to the follow camera
 ![alt text](https://snipboard.io/FAmN5E.jpg)
